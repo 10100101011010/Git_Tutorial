@@ -1,2 +1,2 @@
 print('infolder.py')
-print('version4')
+print('version5')
